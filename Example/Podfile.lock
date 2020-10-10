@@ -1,0 +1,16 @@
+PODS:
+  - YhcPods (0.1.0)
+
+DEPENDENCIES:
+  - YhcPods (from `../`)
+
+EXTERNAL SOURCES:
+  YhcPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YhcPods: f5405692ae372b46473819fa75cc85d47b8f9d4c
+
+PODFILE CHECKSUM: 003167f483e01d1d6b66162032a08b4f2338b122
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,22 @@
+{
+  "name": "YhcPods",
+  "version": "0.1.0",
+  "summary": "A short yyyyyyyy of YhcPods.",
+  "description": "TODO: Add longyyyyyyyyyyyyyyf the pod here.",
+  "homepage": "https://github.com/1548397772",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1548397772": "1548397772@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1548397772/YhcPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YhcPods/Classes/**/*"
+}

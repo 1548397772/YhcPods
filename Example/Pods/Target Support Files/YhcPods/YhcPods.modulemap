@@ -1,0 +1,6 @@
+framework module YhcPods {
+  umbrella header "YhcPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
